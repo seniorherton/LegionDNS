@@ -31,5 +31,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/seniorherton/LegionDNS.git](https://github.com/seniorherton/LegionDNS.git)
+   git clone https://github.com/seniorherton/LegionDNS.git
    cd LegionDNS
